@@ -1,4 +1,4 @@
-# Explaining-the-Explainers-in-Graph-Neural-Networks
+# From Feature Attribution Methods to Probing GNNs
 Repository associated to the paper: ["Explaining the Explainers in Graph Neural Networks: a Comparative Study"](https://arxiv.org/pdf/2210.15304.pdf)
 ![Explanations example](img.png)
 
